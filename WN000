@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WN.Br</title>
+    </head>
+    <body>
+        <h1>WordNet.Br Project Overview</h1>
+        <p>
+        (under construction)
+        </p>
+        <p>
+        Mirroring both Princeton WordNet and EuroWordNet initiatives,
+        and extending the Brazilian Portuguese Thesaurus,
+        the Brazilian Portuguese WordNet (WordNet.br) project was launched in 2003.
+        Roughly, the WordNet.br database contains 44,000 word-forms and 18,500 synsets: 
+        11,000 verbs (4,000 synsets), 17,000 nouns (8,000 synsets), 15,000 adjectives (6,000 synsets),
+        and 1,000 adverbs (500 synsets). 
+        </p>
+    </body>
+</html>
